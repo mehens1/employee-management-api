@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "employee_management",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 8889
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "employee_management",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 8889
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "employee_management",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 8889
+  }
+}
