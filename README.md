@@ -87,9 +87,10 @@ This is an Employee Management API built with Node.js, Express, and Sequelize. T
 ## Environment Variables
 
 Create a file in the root directory and add the following environment variables:
-DB_HOST=localhost
-DB_USER=your_local_server_username
-DB_PASSWORD=your_local_server_password (if any)
-DB_NAME=your_local_server_db_name
-DB_DIALECT=mysql
-JWT_SECRET=generate_your_jwt_token
+
+- DB_HOST=localhost
+- DB_USER=your_local_server_username
+- DB_PASSWORD=your_local_server_password (if any)
+- DB_NAME=your_local_server_db_name
+- DB_DIALECT=mysql
+- JWT_SECRET=generate_your_jwt_token
